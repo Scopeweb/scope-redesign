@@ -3672,3 +3672,5 @@ header #logo img { height: 50px; }
 .spacer-big.hero-spacer { height: calc(40px + 10px + 50px); }
 #hero:not(.hero-big):not(.hero-full) #page-title { padding-top: calc(100px + 50px); }
 #hero:not(.hero-big):not(.hero-full) #page-title:not(.title-bottom) { padding-bottom: calc(100px + 50px); }
+.mt-100{margin-top:100px;}
+.mt-50{margin-top:50px;}
